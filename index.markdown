@@ -5,56 +5,70 @@
 layout: default
 ---
 
-# ⚡ Bienvenido a **Aetheron**
+![Texto alternativo](images/banner.jpg)
 
-Innovamos en la convergencia entre **Internet de las Cosas (IoT)**, **ingeniería electrónica** y **tecnologías web**.  
-Diseñamos soluciones inteligentes que conectan el mundo físico con el digital.
-
----
-
-## 🌐 ¿Qué hacemos?
-
-En **Aetheron** desarrollamos proyectos tecnológicos que integran **hardware, software y comunicación**.
-
-- 🔹 **IoT y automatización:**  
-  Sistemas de monitoreo remoto, control inalámbrico y plataformas conectadas.
-
-- 🔹 **Desarrollo web y aplicaciones:**  
-  Sitios modernos, paneles administrativos y APIs eficientes para integrar tus servicios.
-
-- 🔹 **Electrónica y prototipado:**  
-  Diseño de circuitos, instrumentación y sistemas embebidos listos para producción o investigación.
+_Ingeniería que conecta lo esencial con lo posible._
 
 ---
 
-## 🚀 Nuestra visión
+## Servicios principales
 
-Ser un referente en innovación tecnológica, impulsando proyectos que optimicen procesos y conecten a las personas con la tecnología del futuro.
+<table>
+  <thead>
+    <tr>
+      <th style="width: 25%;">Servicio</th>
+      <th style="width: 60%;">Descripción</th>
+      <th style="width: 15%;">Enlace</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Desarrollo Web y Servidores</strong></td>
+      <td>Diseño y despliegue de sitios web, aplicaciones dinámicas y servidores optimizados con tecnologías libres.</td>
+      <td><a href="./web">Ver más</a></td>
+    </tr>
+    <tr>
+      <td><strong>Proyectos IoT</strong></td>
+      <td>Implementación de sistemas de monitoreo y automatización basados en sensores, microcontroladores y comunicación inalámbrica.</td>
+      <td><a href="./iot">Ver más</a></td>
+    </tr>
+    <tr>
+      <td><strong>Diseño de PCB</strong></td>
+      <td>Creación de placas electrónicas personalizadas, desde el prototipo hasta la fabricación, utilizando herramientas de precisión profesional.</td>
+      <td><a href="./pcb">Ver más</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
-## 🤝 Colaboraciones y servicios
+## Acerca de Aetheron
 
-Ofrecemos soluciones **a medida** para empresas, instituciones educativas y proyectos de investigación.  
-Nuestro enfoque se basa en:
+**Aetheron** es una empresa de ingeniería enfocada en el desarrollo tecnológico integral.  
+Integramos hardware, software y comunicación para ofrecer soluciones efectivas, documentadas y escalables.  
+Nuestro trabajo se apoya en principios de **eficiencia**, **claridad técnica** y **uso de tecnologías abiertas**.
 
-- Diseño modular y escalable.  
-- Código y hardware documentado.  
-- Enfoque en eficiencia, robustez y sostenibilidad.
-
----
-
-## 📞 Contáctanos
-
-¿Tienes un proyecto o una idea que quieras llevar a la realidad?
-
-📧 **Correo:** [contacto@aetheron.tech](mailto:contacto@aetheron.tech)  
-🌍 **Web:** [https://aetheron.tech](https://aetheron.tech)  
-💼 **GitHub:** [github.com/aetheron](https://github.com/aetheron)
+> Desarrollamos sistemas que conectan el mundo físico con el digital, manteniendo un enfoque limpio, funcional y sostenible.
 
 ---
 
-<div align="center">
-  <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Aetheron Logo" width="180" style="margin-top:20px;">
-  <p><strong>Conectando innovación, electrónica y software.</strong></p>
-</div>
+## Filosofía
+
+- Diseño claro y modular.  
+- Documentación reproducible.  
+- Soluciones precisas y eficientes.  
+- Compromiso con la ingeniería abierta.
+
+---
+
+## Contacto
+
+¿Deseas solicitar un proyecto o colaborar con nosotros?
+
+- **Correo:** [contacto@aetheron.tech](mailto:contacto@aetheron.tech)  
+- **Sitio web:** [https://aetheron.tech](https://aetheron.tech)
+
+---
+
+_Aetheron — Tecnología precisa, eficiente y libre._
