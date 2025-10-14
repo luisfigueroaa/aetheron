@@ -23,15 +23,7 @@ email: aetheroniot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aetheron es una empresa de tecnología orientada al desarrollo de soluciones
   innovadoras en Internet de las Cosas (IoT), proyectos web personalizados y
-  sistemas electrónicos inteligentes. Nuestro objetivo es integrar hardware y
-  software de forma eficiente, creando productos y plataformas que optimizan
-  procesos, mejoran la conectividad y facilitan la toma de decisiones basada en
-  datos.  Contamos con experiencia en diseño e implementación de dispositivos
-  embebidos, sistemas de monitoreo remoto, automatización, y desarrollo de
-  aplicaciones web y móviles adaptadas a las necesidades de cada cliente.
-  En Aetheron, combinamos la ingeniería electrónica con la programación avanzada
-  para ofrecer soluciones completas, escalables y seguras que impulsan la
-  transformación digital de empresas e instituciones.
+  sistemas electrónicos inteligentes. 
 baseurl: "/aetheron" # the subpath of your site, e.g. /blog
 url: "https://luisfigueroaa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -61,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  skin: dark

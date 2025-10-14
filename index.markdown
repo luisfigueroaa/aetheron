@@ -67,7 +67,7 @@ Nuestro trabajo se apoya en principios de **eficiencia**, **claridad técnica** 
 ¿Deseas solicitar un proyecto o colaborar con nosotros?
 
 - **Correo:** [contacto@aetheron.tech](mailto:contacto@aetheron.tech)  
-- **Sitio web:** [https://aetheron.tech](https://aetheron.tech)
+- **Teléfono** [+51 942 355 392](tel:+51942355392)
 
 ---
 
