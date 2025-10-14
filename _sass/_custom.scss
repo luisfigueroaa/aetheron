@@ -1,0 +1,11 @@
+.site-title::before {
+  content: "";
+  display: inline-block;
+  background-image: url("/aetheron/assets/images/logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
