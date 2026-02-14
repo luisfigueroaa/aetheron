@@ -2,6 +2,17 @@
 
 Plantilla sacada de https://awesome-landingpages.vercel.app/
 
+## Paleta de colores
+
+![alt](./github/images/paleta.png)
+
+HEX: 
+
+061E29
+1D546D
+5F9598
+F3F4F4
+
 ## Usage
 
 * This template uses tailwind css every tailwind class are prefixed with `tw-`, to help differentiate
