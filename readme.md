@@ -1,3 +1,6 @@
+## Descripción
+
+Plantilla sacada de https://awesome-landingpages.vercel.app/
 
 ## Usage
 
