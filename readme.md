@@ -9,8 +9,11 @@ Plantilla sacada de https://awesome-landingpages.vercel.app/
 HEX: 
 
 061E29
+
 1D546D
+
 5F9598
+
 F3F4F4
 
 ## Usage
