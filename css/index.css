@@ -2,12 +2,12 @@
 
 :root{
 
-    --btn-color: #fdfdfd;/* button color*/
-    --btn-bg: #4f55c1;/* button bg color*/
+    --btn-color: #F3F4F4;/* button color*/
+    --btn-bg: #1D546D;/* button bg color*/
 
-    --primary-text-color: #4f55c1;
-    --header-link-hover: #6c72e8;
-    --input-hover-bd-color: #4f55c1;
+    --primary-text-color: #F3F4F4;
+    --header-link-hover: #5F9598;
+    --input-hover-bd-color: #1D546D;
 }
 
 
@@ -61,8 +61,8 @@ header > .collapsible-header{
 }
 
 .gradient-text{
-    background: rgb(233,92,255);
-    background: linear-gradient(93deg, rgba(233,92,255,1) 12%, rgba(210,125,255,1) 49%, rgba(159,121,255,1) 93%);
+    background: rgb(243, 244, 244);
+    background: linear-gradient(93deg, rgb(95, 149, 152) 0%, rgb(230, 232, 232) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -225,4 +225,8 @@ header > .collapsible-header{
         color: rgb(255, 255, 255);
     }
     
+}
+
+.parrafo-desc{
+    font-family: sans-serif;
 }

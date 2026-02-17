@@ -11,10 +11,13 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				primary: "#c490ff",
-				secondary: "#6c72e8", 
+				primary: "#5F9598",
+				secondary: "#1D546D", 
 			}
 		},
+	},
+	fontFamily: {
+		sans: ["ui-sans-serif", "system-ui", "sans-serif"],
 	},
 	plugins: [],
 }
