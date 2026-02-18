@@ -230,3 +230,16 @@ header > .collapsible-header{
 .parrafo-desc{
     font-family: sans-serif;
 }
+
+.lista-precios{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+section p {
+    font-family: sans-serif;
+}
+
+.boton-escribenos {
+    background-color: var(--btn-bg);
+}
